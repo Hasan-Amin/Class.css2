@@ -1,0 +1,51 @@
+body{
+	background: #F5F5DC;
+}
+.wrapper{
+	width: 50%;
+	margin: 0 auto;
+	color: rgb(0, 13, 255);
+	border: 2px solid #ddd;
+	padding: 5px;
+	background: #C0C0C0;
+}
+h2{
+	margin: 0px 315px;
+}
+label{
+	font-size: 20px;
+
+}
+#first_name, #last_name, #emil, #password, #Retype_Password #mobile-Number{
+	width: 80%;
+    height: 25px;
+    padding: 0px 0px 0px 10px;
+    font-size: 14px;
+}
+#message{
+	font-size: 17px;
+	padding: 10px;
+}
+table{
+	width: 50%;
+	border: 1px solid black;
+	margin: 0px 0px 0px 310px;
+}
+td, th {
+	font-size: 15px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.map{
+	width: 90%;
+	height: 200px;
+	border: 1px solid black;
+	margin: 0px 0px 0px 70px;
+}
+.video{
+	width: 30%;
+	height: 280px;
+	
+}
+a{ margin:0px 0px 0px 68px }
